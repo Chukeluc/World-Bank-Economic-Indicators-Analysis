@@ -1,5 +1,9 @@
 # World Bank Economic Indicators Analysis: Africa vs The Americas (Tableau)
+Live Tableau Public Dashboard: https://public.tableau.com/app/profile/chukwudera.chukelu/viz/EconomicInfrastructureGapAnalysisAfricavsTheAmericas/PopulationGrowthEconomicTrendsAfricavsTheAmericas
 
+**Source: World Bank Indicators (Excel)
+Tables used: Data by country + Regions and subregions (joined/related in Tableau)
+**
 ## 📊 Project Overview
 
 Comparative economic analysis of **234 countries** across **20 development indicators**, examining regional disparities and growth opportunities between Africa and The Americas using interactive Tableau visualizations.
