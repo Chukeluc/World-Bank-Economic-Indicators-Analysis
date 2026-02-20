@@ -78,13 +78,3 @@ Comparative economic analysis of **234 countries** across **20 development indic
 - Custom color schemes for regional distinction
 - Dual-axis charts for trend comparison
 
-## 📜 License
-
-This project was completed as part of academic coursework at Centennial College.  
-Data sourced from World Bank Indicators (public dataset).
-
-
-
----
-
-*Last Updated: December 2024*
